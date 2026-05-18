@@ -2,18 +2,8 @@
   <img width="386" height="386" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
 </p>
 
-<h1><b>PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!</b></h1>
-
-
-<font size="6">Huge text</font>
-<font size="5">Large text</font>
-<font size="4">Medium text</font>
-<font size="3">Normal text</font>
-<font size="2">Small text</font>
-<font size="1">Tiny text</font>
-
-
-*Includes both macOS and Windows PKM Pack Setups (.dmg & .msi)*
+<h1><b>PASSWARE KIT MOBILE v1.0 DOWNLOADS | ORIGINAL SOFTWARE</b></h1>
+<h2><i>macOS and Windows PKM Setups (.dmg & .msi) EXCEPT 2026 v1.0 which only has the .msi</i></h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="93" alt="Passware">
@@ -32,6 +22,75 @@ Passware Kit Mobile is available for both Windows and macOS, with each platform 
 This repository preserves these installers for documentation, software‑analysis, and historical reference. It does not include license keys, activation files, or any mechanism to bypass Passware’s licensing system. Passware® and Passware Kit® are trademarks of Passware Inc., and all rights belong to their respective owners. 
 
 This archive exists solely to support research into forensic software evolution, cross‑platform behavior, and digital‑forensics tooling.
+Encouragement of violation of T&Cs are not permitted by Passware Inc.
 
-I DO NOT ENCOURAGE THE BEHAVIOUR OF VARIOUS ACTIONS SUCH AS CRACKING A COPY OF PASSWARE KIT MOBILE DOWNLOADED VIA THIS REPOSITORY !!!
-DOWNLOAD AT YOUR OWN RISK.
+***Passware Inc**. and **Macfixer1** take ZERO responsibility for any illegal/unauthorised misuse of the software and any violations.*
+
+**Use at your own risk.** ***A non-copied EULA can be found further down this README.***
+
+<h1><b>END‑USER LICENCE AGREEMENT (EULA)<b></h1>
+
+<h2><b>Version 1.0 — Last Updated: [18 May 2026]<b></h2>
+
+<h2><i>This End‑User Licence Agreement (“Agreement”) governs your access to and use of the files, documentation, and materials (“Materials”) provided in this repository (“Repository”).<i></h2>
+
+By downloading, accessing, or using any part of this Repository, you agree to be bound by the terms of this Agreement.
+---
+1. Licence Grant
+You are granted a limited, non‑exclusive, non‑transferable, revocable licence to access and use the Materials for personal, educational, research, or archival purposes only.
+No ownership rights are transferred.
+---
+2. Restrictions
+You agree NOT to:
+• use the Materials for any unlawful, unauthorised, or unpermitted purpose
+• redistribute, sell, sublicense, or commercially exploit the Materials
+• claim affiliation with, endorsement by, or partnership with any third‑party company referenced in the Repository
+• bypass, modify, or attempt to activate any software included in the Repository
+• upload or distribute malware, harmful code, or modified binaries
+Any violation of these restrictions will result in immediate termination of your licence.
+---
+3. Third‑Party Software Notice
+This Repository does not host, distribute, or modify any proprietary software belonging to third‑party companies.
+Any references to third‑party products are for informational and educational purposes only.
+All trademarks, software names, and intellectual property remain the property of their respective owners.
+---
+4. No Warranty
+The Materials are provided “as‑is”, without any warranties of any kind, express or implied.
+This includes, but is not limited to:
+• fitness for a particular purpose
+• accuracy
+• reliability
+• compatibility
+You use the Materials entirely at your own risk.
+---
+5. Limitation of Liability
+Under no circumstances shall the Repository owner be liable for:
+• damages
+• data loss
+• legal consequences
+• misuse of the Materials
+• unauthorised use of third‑party software
+You are solely responsible for ensuring your use complies with all applicable laws and agreements.
+---
+6. Compliance With Laws
+You agree to comply with all:
+• local laws
+• national laws
+• software licensing terms
+• digital‑forensics regulations
+• privacy and data‑protection rules
+Any unauthorised or unlawful use is strictly prohibited.
+---
+7. Termination
+Your rights under this Agreement automatically terminate if you violate any term.
+Upon termination, you must immediately stop using and delete all Materials obtained from the Repository.
+---
+8. Changes to This Agreement
+The Repository owner may update or modify this Agreement at any time.
+Continued use of the Repository constitutes acceptance of the updated terms.
+---
+9. Contact
+For questions or concerns regarding this Agreement, please open an issue in the Repository.
+---
+
+Thank you for reading this README! 👍
