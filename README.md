@@ -6,7 +6,7 @@
 <h2><i>macOS and Windows PKM Setups (.dmg & .msi) EXCEPT 2026 v1.0 which only has the .msi</i></h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="93" alt="Passware">
+  <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="85" alt="Passware">
 </p>
 
 📘 Passware & Passware Kit Mobile — Comprehensive Overview
