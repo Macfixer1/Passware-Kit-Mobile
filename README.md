@@ -28,6 +28,11 @@ Encouragement of violation of T&Cs are not permitted by Passware Inc.
 
 **Use at your own risk.** ***A non-copied EULA can be found further down this README.***
 
+Passware’s official EULA prohibits redistribution, reverse engineering, resale, and unauthorized use.
+For Passware’s official Software License Agreement, see: [https://www.passware.com/legal/](https://www.passware.com/files/PKM-EULA.pdf)
+
+
+
 <h1><b>END‑USER LICENCE AGREEMENT (EULA)<b></h1>
 
 <h2><b>Version 1.0 — Last Updated: [18 May 2026]<b></h2>
