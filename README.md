@@ -2,7 +2,7 @@
   <img width="386" height="386" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
 </p>
 
-<h2><b>PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!</b></h2>
+<h1><b>PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!</b></h1>
 
 
 <font size="6">Huge text</font>
