@@ -2,8 +2,18 @@
   <img width="386" height="386" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
 </p>
 
-PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!
-Includes both macOS and Windows PKM Pack Setups (.dmg & .msi)
+<h2><b>PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!</b></h2>
+
+
+<font size="6">Huge text</font>
+<font size="5">Large text</font>
+<font size="4">Medium text</font>
+<font size="3">Normal text</font>
+<font size="2">Small text</font>
+<font size="1">Tiny text</font>
+
+
+*Includes both macOS and Windows PKM Pack Setups (.dmg & .msi)*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="93" alt="Passware">
