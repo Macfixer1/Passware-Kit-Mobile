@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="386" height="386" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
+  <img width="250" height="250" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
 </p>
 
 <h1><b>PASSWARE KIT MOBILE v1.0 DOWNLOADS | ORIGINAL SOFTWARE</b></h1>
