@@ -1,7 +1,14 @@
 PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!
 Includes both macOS and Windows PKM Pack Setups (.dmg & .msi)
 
+<p align="center">
+  <img width="386" height="386" alt="Passware" src="https://github.com/user-attachments/assets/e1b335b1-3eb5-42c7-bdf0-ce9282c035f8" />
+</p>
 
+<p align="center">
+  <img width="386" height="386" alt="Passware" src="
+https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" />
+</p>
 
 📘 Passware & Passware Kit Mobile — Comprehensive Overview
 Passware is a long‑established developer of forensic decryption and data‑recovery software used by law‑enforcement agencies, corporate investigators, digital‑forensics labs, and cybersecurity professionals worldwide.
@@ -17,5 +24,5 @@ This repository preserves these installers for documentation, software‑analysi
 
 This archive exists solely to support research into forensic software evolution, cross‑platform behavior, and digital‑forensics tooling.
 
-I DO NOT ENCOURAGE THE BEHAVIOUR OF ILLEGAL ACTIONS SUCH AS CRACKING A COPY OF PASSWARE KIT MOBILE DOWNLOADED VIA THIS REPOSITORY !!!
+I DO NOT ENCOURAGE THE BEHAVIOUR OF VARIOUS ACTIONS SUCH AS CRACKING A COPY OF PASSWARE KIT MOBILE DOWNLOADED VIA THIS REPOSITORY !!!
 DOWNLOAD AT YOUR OWN RISK.
