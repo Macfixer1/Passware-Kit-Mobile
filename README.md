@@ -6,7 +6,7 @@ PASSWARE KIT MOBILE DOWNLOAD PACK - GENUINE AND UNMODIFIED!
 Includes both macOS and Windows PKM Pack Setups (.dmg & .msi)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="100" alt="Passware">
+  <img src="https://github.com/user-attachments/assets/346379ad-002f-4068-b256-2d67c6c3e25a" width="386" height="93" alt="Passware">
 </p>
 
 📘 Passware & Passware Kit Mobile — Comprehensive Overview
